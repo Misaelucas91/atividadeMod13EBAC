@@ -1,0 +1,64 @@
+body {
+  background: #D0DB97;
+}
+
+header .navbar {
+  background: #254D32;
+  padding: 2.5em 0;
+}
+
+main {
+  padding-bottom: 48px;
+}
+
+.menu-title a {
+  color: #D0DB97;
+  font-size: 1.8em;
+}
+
+.menu-title a:hover {
+  color: #A2B63E;
+}
+
+.navbar-nav .nav-link.active {
+  color: #fff;
+}
+
+.nav-link {
+  text-align: center;
+  color: #D0DB97;
+}
+
+.nav-link:hover {
+  color: #A2B63E;
+}
+
+.sobre-queimadas h1 {
+  color: #14291B;
+  font-size: 2.8em;
+}
+
+.sobre-queimadas p {
+  color: #254D32;
+  font-size: 1.15em;
+}
+
+.impactos {
+  color: #14291B;
+}
+
+.card {
+  background: #254D32;
+  color: #D0DB97;
+  margin-bottom: 24px;
+}
+
+.card a {
+  background: #356E48;
+  border: 1px solid #a2b63e88;
+}
+
+.card a:hover {
+  background: #21452D;
+  border: 1px solid #a2b63e;
+}
